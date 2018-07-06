@@ -1,6 +1,6 @@
 # 100 Days Of ML - LOG
 
-## Day 1 : Jul 6 , 2018
+## Day 1 : Jul 5 , 2018
 
 **Today's Progress** : I have tried to implement basic linear regression.
 
