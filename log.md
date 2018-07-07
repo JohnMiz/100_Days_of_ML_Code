@@ -1,6 +1,6 @@
 # 100 Days Of ML - LOG
 
-## Day 1 : Jul 6 , 2018
+## Day 1 : Jul 5, 2018
 
 **Today's Progress** : I have tried to implement basic linear regression.
 
@@ -8,7 +8,7 @@
 
 **Link of Work:**   [Linear Regression Tutorial](https://www.springboard.com/blog/linear-regression-in-python-a-tutorial/)
 
-## Day 2 : Jul 7 , 2018
+## Day 2 : Jul 6, 2018
 
 **Today's Progress** : Fixed the bugs from the day before and implemented the linear regression
 
