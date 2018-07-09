@@ -16,7 +16,7 @@
 
 **Link of Work:**   [Linear Regression Tutorial](https://www.springboard.com/blog/linear-regression-in-python-a-tutorial/)
 
-## Day 3 : Jul 9, 2018
+## Day 3 : Jul 8, 2018
 
 **Today's Progress** : Read more about linear regression
 
